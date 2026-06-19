@@ -1,0 +1,25 @@
+.Product-image-in{
+    width: 200px;
+    height: 220px;
+    /* image background white remove */
+    mix-blend-mode: multiply;
+}
+
+.product-small-image{
+    width: 50px;
+    height: 100px;
+    /* image background white remove */
+    mix-blend-mode: multiply;
+}
+product-small-image-wish{
+    width: 100px;
+    height: 150px;
+    /* image background white remove */
+    mix-blend-mode: multiply;
+}
+.product-table-image{
+    width: 150px;
+    height: 100px;
+    /* image background white remove */
+    mix-blend-mode: multiply;
+}
